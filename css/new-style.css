@@ -1,0 +1,9 @@
+.menu__icon:hover span {
+	background-color:  #c4c4c4;
+}
+.form-letter__txtarea textarea:focus,
+.form-letter__inputs .form-letter__input input:focus,
+.calc-main__weight .calc-main__input input:focus {
+	border-color: #2342b3;
+}
+
